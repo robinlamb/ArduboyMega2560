@@ -4,6 +4,8 @@ This project is a modification of the Arduboy2 and ArduboyTones made to be used 
 
 ![Wiring](https://github.com/robinlamb/ArduboyMega2560/blob/main/ArduboyMega_bb.png)
 
+![Wiring](https://github.com/robinlamb/ArduboyMega2560/blob/main/ArduboyMegaPinGuide.png)
+
 
 
 The second players' buttons can be accessed in code as LEFT_BUTTON_2, RIGHT_BUTTON_2, UP_BUTTON_2, DOWN_BUTTON_2, A_BUTTON_2, and B_BUTTON_2.
